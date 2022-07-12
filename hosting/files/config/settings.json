@@ -1,0 +1,14 @@
+{
+  "token": "ODg4MjI2ODI1NDk3NjMyNzY5.GiO2PI.-NrpMRCdrPvoNTIqSkRclNZYsr-1DWL6js0s0U",
+  "prefix": ";",
+  "owner_id": "807210491193458699",
+  "presence_type": "PLAYING",
+  "channel_id": "844963612966912010",
+  "shuffle": true,
+  "pause_on_empty": true,
+  "owner_reporting": false,
+  "soundcloud_client_id": "",
+  "youtube_cookie": "SIDCC=AJi4QfHNdngzqx_Ewr5Vjoz717Bia1TNGbDtl9hRWEm9mymiRg81X-3fVR4f22nwYgegD0pKig; expires=Wed, 12-Jul-2023 06:08:08 GMT; path=/; domain=.youtube.com; priority=high",
+  "playing_status": "{status_icon} {song_name}",
+  "intermission_interval": null
+}
